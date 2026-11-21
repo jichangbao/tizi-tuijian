@@ -28,7 +28,7 @@
 | 6 | **二猫云** | 全 IEPL 专线 | ¥20/月 | ¥89/年（60G/月） | 想买一个永久备用梯子的人 | [看测评](https://tiziking.com/review/ermao/) |
 | 7 | **Firefly** | 全 IPLC 专线 | ¥25/月 | ¥96/年（60G/月） | 学生党和轻度用户 | [看测评](https://tiziking.com/review/firefly/) |
 | 8 | **宇宙云** | IEPL / IPLC 专线 | ¥25/月 | ¥96/年（60G/月） | 不想折腾客户端配置的新手 | [看测评](https://tiziking.com/review/yuzhou/) |
-| 9 | **无忧** | 全 IPLC 专线 | ¥19/月 | ¥79/年（40G/月） | 预算最紧、用量很少的人 | [看测评](https://tiziking.com/review/wuyou/) |
+| 9 | **无忧** | 全 IPLC 专线 | ¥25/月 | ¥79/年（50G/月） | 预算最紧、用量很少的人 | [看测评](https://tiziking.com/review/wuyou/) |
 | 10 | **光速云** | IPLC 专线（另有直连节点） | ¥23/月 | ¥99/年（59G/月） | 看视频多、追求速度的用户 | [看测评](https://tiziking.com/review/guangsu/) |
 | 11 | **星岛梦** | IPLC / IEPL 专线（另有直连节点） | ¥25/月 | ¥96/年（60G/月） | 主要用 ChatGPT、Gemini 的人 | [看测评](https://tiziking.com/review/xingdaomeng/) |
 | 12 | **唯兔云** | IPLC / IEPL 专线 + 备用直连 | ¥19.9/月 | ¥79.9/年（45G/月） | 想用最低月付拿到够用流量的人 | [看测评](https://tiziking.com/review/weitu/) |
@@ -65,7 +65,7 @@
 | 暮光 | ¥0.17/G | ✅ | ✅ | ✅ | ✅ | 9.1 |
 | 微风 | ¥0.14/G | 部分 | 部分 | 部分 | ✅ | 9.1 |
 | 宇宙云 | ¥0.16/G | ✅ | 部分 | ✅ | ✅ | 9.1 |
-| 无忧 | ¥0.19/G | ✅ | 部分 | ✅ | ✅ | 9.1 |
+| 无忧 | ¥0.16/G | ✅ | 部分 | ✅ | ✅ | 9.1 |
 | 灵动云 | ¥0.20/G | ✅ | ✅ | ✅ | ✅ | 9.1 |
 
 评分规则公开在 [评测方法](https://tiziking.com/pingce-fangfa/)：速度、稳定性、价格、解锁、售后 5 项按公式计算，sogo云 在这张表里不固定第一。
